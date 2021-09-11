@@ -1,0 +1,29 @@
+.Header {
+    background-color: #282c34;
+    /* min-height: 100vh; */
+    display: flex;
+    height: 40px;
+    /* flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin); */
+    color: #F8F0E3;
+}
+
+.Header-home {
+    position: relative;
+    left: 10px;
+    bottom: 5px;
+    stroke:white;
+    fill: white !important;
+    width: 20px;
+    height: 20px;
+}
+
+.Header-nav {
+    position:absolute;
+    top: 8px;
+    right: 10px;
+    vertical-align: bottom;
+}
+
