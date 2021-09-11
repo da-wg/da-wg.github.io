@@ -7,11 +7,11 @@ class Header extends React.Component {
     render() {
         return (
             <div className="Header">
-                <p>
+                {/* <p>
                     <a href="../public/index.html">
                         <Home className="Header-home" alt="home"/>
                     </a>
-                </p>
+                </p> */}
                 {/* <div className="Header-nav">
                     <a href="../public/about.html">
                         About Me
